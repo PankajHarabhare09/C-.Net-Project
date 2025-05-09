@@ -43,4 +43,4 @@ A desktop application built using **C#.NET** to manage bakery operations includi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/BakeryManagementSystem.git
+   git clone https://github.com/PankajHarabhare09/CSharp.Net-Project-BakeryManagementSystem.git
