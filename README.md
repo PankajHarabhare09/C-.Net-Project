@@ -11,7 +11,7 @@ A desktop application built using **C#.NET** to manage bakery operations includi
 - 👨‍🍳 **Staff Management** – Manage employee roles, shifts, and details.
 - 💵 **Billing & Invoicing** – Generate bills and print invoices for customers.
 - 📊 **Reports & Analytics** – View sales summaries, daily reports, and inventory usage.
-- 🔐 **Login & Role-Based Access** – Secure authentication with admin/user roles.
+- 🔐 **Login ** – Secure authentication with admin role.
 
 ---
 
@@ -19,7 +19,7 @@ A desktop application built using **C#.NET** to manage bakery operations includi
 
 - **Language**: C#
 - **Framework**: .NET (Windows Forms / WPF depending on your project)
-- **Database**: SQL Server / LocalDB
+- **Database**: SQL Server 
 - **IDE**: Visual Studio
 - **Version Control**: Git + GitHub
 
